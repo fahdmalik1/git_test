@@ -1,0 +1,1 @@
+this is Fahd Malik's first git project working from terminal
